@@ -43,11 +43,11 @@ module.exports = {
 	},
 	css: {
 		loaderOptions: {
-			sass: {
-				data: `
-                @import "@/style/mixin.scss";
-                @import "@/style/_var.scss";
-                `
+			stylus: {
+				import: [
+					path.resolve(__dirname, './src/style/mixin.styl'),
+					path.resolve(__dirname, './src/style/_var.styl')
+				]
 			}
 		}
 	}

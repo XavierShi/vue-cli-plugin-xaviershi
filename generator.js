@@ -13,10 +13,10 @@ module.exports = (api, options, rootOptions) => {
             'vuex': '^3.1.0'
         },
         devDependencies: {
-            'node-sass': '^4.12.0',
-            'sass-loader': '^7.1.0',
             'less': '^3.9.0',
             'less-loader': '^5.0.0',
+            'stylus': '^0.54.5',
+            'stylus-loader': '^3.0.2'
         },
         browserslist: [
             "> 1%",
