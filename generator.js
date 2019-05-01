@@ -6,8 +6,11 @@ module.exports = (api, options, rootOptions) => {
             'axios': '^0.18.0',
             'dayjs': '^1.8.13',
             'number-precision': '^1.3.1',
-            'tween.js': '^16.6.0',
-            'vue-i18n': '^8.11.2'
+            '@tweenjs/tween.js': '^16.6.0',
+            'vconsole': '^3.3.0',
+            'vue-i18n': '^8.11.2',
+            'vue-router': '^3.0.6',
+            'vuex': '^3.1.0'
         },
         devDependencies: {
             'node-sass': '^4.12.0',

@@ -5,7 +5,6 @@ import store from './store'
 import i18n from './locale'
 import filters from './filters'
 
-
 Vue.config.productionTip = false
 
 // 如果是非线上环境，加载 VConsole（移动端适用）
