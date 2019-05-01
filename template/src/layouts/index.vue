@@ -1,21 +1,20 @@
 <template>
-	<div class="layout-container">
-        <slot></slot>
-    </div>
+  <div class="layout-container">
+    <slot></slot>
+  </div>
 </template>
 
 <script>
-	export default {
-        name: "Layout",
-		data() {
-			return {};
-		},
-		components: {}
-	};
+export default {
+  name: "Layout",
+  data() {
+    return {};
+  },
+  components: {}
+};
 </script>
 
-<style lang="scss" scoped>
-    .layout-container {
-
-    }
+<style lang="stylus" scoped>
+.layout-container {
+}
 </style>

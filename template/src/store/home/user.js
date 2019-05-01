@@ -1,7 +1,7 @@
 import * as types from '@/store/mutation-types.js'
 import {
 	rankGender
-} from '@/api/common'
+} from '@/api'
 
 export default {
 	namespaced: true,

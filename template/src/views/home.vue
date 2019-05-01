@@ -193,8 +193,8 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
-@import "~@/assets/iconfont/iconfont.css";
+<style lang="stylus" scoped>
+@import '~@/assets/iconfont/iconfont.css';
 
 .home {
   display: flex;
