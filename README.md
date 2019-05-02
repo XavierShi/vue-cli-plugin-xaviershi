@@ -15,4 +15,6 @@
 
 # 资料
 
+[移动端](https://www.npmjs.com/package/@xaviershi/vue-cli-plugin-xaviershi-phone)
+
 关于插件模板具体使用说明、推荐规范、常见问题 [参考 ReadMe](https://github.com/wangyupo/vue-vuex-router/blob/master/README.md?1556770278320)
