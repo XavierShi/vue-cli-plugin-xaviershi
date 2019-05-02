@@ -4,6 +4,14 @@ import router from './router'
 import store from './store'
 import i18n from './locale'
 import filters from './filters'
+import 'amfe-flexible'
+
+// import Toast from './components/toast/index'
+// Vue.use(Toast);
+
+// 消除 click 移动浏览器300ms延迟
+import attachFastClick from 'fastclick'
+attachFastClick.attach(document.body)
 
 Vue.config.productionTip = false
 
