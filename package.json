@@ -1,6 +1,6 @@
 {
   "name": "@xaviershi/vue-cli-plugin-xaviershi-pc",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "A vue-cli3 plugin for pc project.",
   "main": "index.js",
   "scripts": {

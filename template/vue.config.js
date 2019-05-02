@@ -45,8 +45,8 @@ module.exports = {
 		loaderOptions: {
 			stylus: {
 				import: [
-					path.resolve(__dirname, './src/style/mixin.styl'),
-					path.resolve(__dirname, './src/style/_var.styl')
+					path.resolve(__dirname, './src/style/var.styl'),
+					path.resolve(__dirname, './src/style/mixin.styl')
 				]
 			}
 		}
