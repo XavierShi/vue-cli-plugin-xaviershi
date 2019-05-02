@@ -7,6 +7,9 @@
 # 使用方法
 
 `vue create test`  
+ `Manually select features`(手动选择特性)  
+ 不需要选择装 vuex 和 vue-router，因为插件自带 vuex 和 vue-router 并且相应的组织结构也有变化。  
+ 个人推荐使用`ESLint + Standard config`规范
 `cd test`  
 `vue add @xaviershi/xaviershi-phone`
 
