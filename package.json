@@ -1,6 +1,6 @@
 {
   "name": "@xaviershi/vue-cli-plugin-xaviershi-phone",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "A vue-cli3 plugin for phone project.",
   "main": "index.js",
   "scripts": {
